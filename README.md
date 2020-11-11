@@ -1,2 +1,3 @@
-# ATMEL_SAM_E51_Dev
-ATMEL SAM L51 Development Project
+# ATMEL_SAM_E54_Dev
+
+ATMEL SAM E54 Development Project
